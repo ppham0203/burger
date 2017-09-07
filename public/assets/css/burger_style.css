@@ -1,13 +1,25 @@
 body {
-background: seagreen;
 font-family: 'Architects Daughter', cursive;
+background: seagreen;
 }
+
+
 
 #hammy {
   display: block;
   margin: auto;
 }
 
+.burgerOrdered {
+  
+  text-align: center;
+
+  border-radius: 15px;
+  margin: 10px;
+  padding: 10px;
+  background-color: #C92E0F;
+  
+}
 
 .burgerAvailable {
 
