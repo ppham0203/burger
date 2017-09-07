@@ -1,0 +1,40 @@
+body {
+background: seagreen;
+font-family: 'Architects Daughter', cursive;
+}
+
+#hammy {
+  display: block;
+  margin: auto;
+}
+
+
+.burgerAvailable {
+
+text-align: center;
+border-radius: 15px;
+
+background-color: #b7ffc2;
+border: none;
+}
+
+.burgerAvailable:hover {
+background-color: #81ff94;
+}
+
+
+.create-update-form {
+    padding: 5px;
+    margin: 5px;   
+  }
+
+.burgerEaten {
+  text-decoration: line-through;
+  text-align: center;
+
+  border-radius: 15px;
+  margin: 10px;
+  padding: 10px;
+  background-color: #E4902F;
+
+}
